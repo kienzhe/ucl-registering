@@ -1,0 +1,184 @@
+#content{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.steps{
+    width: 100%;
+    list-style: none;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 140px;
+}
+
+.steps a{
+    margin: 0 auto;
+    text-decoration: none;
+    color: white;
+}
+
+.steps_link{
+    padding: 16px;
+}
+
+#registry1{
+    width: 100%;
+    padding-top: 32px;
+    background-color: #E4F1F0;
+}
+
+#section1 {
+    width: 1226px;
+    padding-top: 32px;
+    background-color: #E4F1F0;
+    display: flex;
+    padding-left: 129px;
+}
+
+h2 {
+    font-size: 20px;
+}
+.month{
+    height: 58px;
+    padding-right: 129px;
+}
+
+.drop_down{
+    width: 150px;
+    height: 30px;
+    border: solid 1px black;
+}
+
+.search{
+    width: 150px;
+    height: 30px;
+    border: solid 1px black;
+}
+
+.year{
+    height: 58px;
+    padding-right: 129px;
+}
+
+.campus{
+    height: 58px;
+}
+
+#section2 {
+    max-width: 1226px;
+    padding-top: 32px;
+    background-color: #E4F1F0;
+    padding-left: 129px;
+    
+}
+.flex_box{
+        display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+}
+
+.grid_item {
+    width:400px;
+    padding-top:13px;
+}
+
+#next_button {
+    height: 30px;
+    width: 74px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    float: right;
+}
+
+#next_button a {
+    text-decoration: none;
+    color: white;
+}
+
+#registry2{
+    width: 100%;
+    padding-top: 32px;
+    background-color: #E4F1F0;
+}
+
+#section3 {
+    width: 1226px;
+    padding-top: 32px;
+    background-color: #E4F1F0;
+    display: flex;
+    padding-left: 129px;
+}
+
+.gender{
+    height: 58px;
+    padding-right: 129px;
+}
+
+.search2{
+    width: 150px;
+    height: 30px;
+    border: solid 1px black;
+}
+
+.inquiry{
+    height: 58px;
+    padding-right: 129px;
+}
+
+.conversation_time{
+    height: 58px;
+}
+
+#section4 {
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+    width: 1226px;
+    padding-top: 32px;
+    background-color: #E4F1F0;
+    padding-left: 129px;
+}
+
+.info {
+    height: 16px;
+    width: 16px;
+}
+
+.buttons_box {
+    width: 100%;
+}
+
+.buttons {
+    float: right;
+width: 398px;
+}
+
+#back_button {
+    height: 30px;
+    width: 74px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    margin-right: 130px;
+}
+
+#back_button a {
+    text-decoration: none;
+    color: white;
+}
+
+#registrate {
+    height: 45px;
+    width: 154px;
+    font-size: 20px;
+    color: white;
+    background-color: #22973A;
+    border: none;
+}
+
+#registrate a {
+    text-decoration: none;
+    color: white;
+}
